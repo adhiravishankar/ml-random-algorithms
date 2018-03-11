@@ -1,0 +1,22 @@
+Results for Randomized Hill Climbing:
+Correctly classified 7305.0 instances.
+Incorrectly classified 819.0 instances.
+Percent correctly classified: 89.91875923190547%
+Training time: 39.734507247 seconds
+Testing time: 0.071909588 seconds
+
+
+Results for Simulated Annealing:
+Correctly classified 6748.0 instances.
+Incorrectly classified 1376.0 instances.
+Percent correctly classified: 83.06253077301821%
+Training time: 38.708458041 seconds
+Testing time: 0.03209484 seconds
+
+
+Results for Standard Genetic Algorithm:
+Correctly classified 7914.0 instances.
+Incorrectly classified 210.0 instances.
+Percent correctly classified: 97.41506646971935%
+Training time: 10282.799496138 seconds
+Testing time: 0.030342345 seconds

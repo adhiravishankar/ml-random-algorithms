@@ -1,0 +1,14 @@
+Results for Randomized Hill Climbing:
+Correctly classified 185842.0 instances.
+Incorrectly classified 13681.0 instances.
+Percent correctly classified: 93.14314640417396%
+Training time: 2278.219262198 seconds
+Testing time: 1.365767005 seconds
+
+
+Results for Simulated Annealing:
+Correctly classified 17081.0 instances.
+Incorrectly classified 182442.0 instances.
+Percent correctly classified: 8.56091778892659%
+Training time: 2051.986561965 seconds
+Testing time: 1.290517563 seconds
