@@ -1,0 +1,308 @@
+MIMIC mimic = new MIMIC(200, 20, pop);
+        StandardGeneticAlgorithm ga = new StandardGeneticAlgorithm(200, 100, 10, gap);
+        SimulatedAnnealing sa = new SimulatedAnnealing(1E11, .95, hcp);
+
+============================
+============================
+Iteration 5:
+RHC: 340.0
+Failed to find Max-K Color combination !
+Time : 4
+============================
+SA: 307.0
+Failed to find Max-K Color combination !
+Time : 1
+============================
+GA: 340.0
+Failed to find Max-K Color combination !
+Time : 9
+============================
+MIMIC: 350.0
+Found Max-K Color Combination !
+Time : 21
+============================
+============================
+============================
+Iteration 10:
+RHC: 340.0
+Failed to find Max-K Color combination !
+Time : 0
+============================
+SA: 317.0
+Failed to find Max-K Color combination !
+Time : 0
+============================
+GA: 350.0
+Found Max-K Color Combination !
+Time : 3
+============================
+MIMIC: 350.0
+Found Max-K Color Combination !
+Time : 21
+============================
+============================
+============================
+Iteration 25:
+RHC: 340.0
+Failed to find Max-K Color combination !
+Time : 0
+============================
+SA: 307.0
+Failed to find Max-K Color combination !
+Time : 1
+============================
+GA: 350.0
+Found Max-K Color Combination !
+Time : 7
+============================
+MIMIC: 350.0
+Found Max-K Color Combination !
+Time : 45
+============================
+============================
+============================
+Iteration 50:
+RHC: 340.0
+Failed to find Max-K Color combination !
+Time : 0
+============================
+SA: 340.0
+Failed to find Max-K Color combination !
+Time : 0
+============================
+GA: 350.0
+Found Max-K Color Combination !
+Time : 14
+============================
+MIMIC: 350.0
+Found Max-K Color Combination !
+Time : 67
+============================
+============================
+============================
+Iteration 100:
+RHC: 340.0
+Failed to find Max-K Color combination !
+Time : 1
+============================
+SA: 317.0
+Failed to find Max-K Color combination !
+Time : 0
+============================
+GA: 350.0
+Found Max-K Color Combination !
+Time : 21
+============================
+MIMIC: 350.0
+Found Max-K Color Combination !
+Time : 94
+============================
+============================
+============================
+Iteration 250:
+RHC: 340.0
+Failed to find Max-K Color combination !
+Time : 1
+============================
+SA: 340.0
+Failed to find Max-K Color combination !
+Time : 1
+============================
+GA: 350.0
+Found Max-K Color Combination !
+Time : 44
+============================
+MIMIC: 350.0
+Found Max-K Color Combination !
+Time : 172
+============================
+============================
+============================
+Iteration 500:
+RHC: 340.0
+Failed to find Max-K Color combination !
+Time : 1
+============================
+SA: 340.0
+Failed to find Max-K Color combination !
+Time : 1
+============================
+GA: 350.0
+Found Max-K Color Combination !
+Time : 84
+============================
+MIMIC: 350.0
+Found Max-K Color Combination !
+Time : 351
+============================
+============================
+============================
+Iteration 750:
+RHC: 340.0
+Failed to find Max-K Color combination !
+Time : 1
+============================
+SA: 340.0
+Failed to find Max-K Color combination !
+Time : 2
+============================
+GA: 350.0
+Found Max-K Color Combination !
+Time : 117
+============================
+MIMIC: 350.0
+Found Max-K Color Combination !
+Time : 374
+============================
+============================
+============================
+Iteration 1000:
+RHC: 340.0
+Failed to find Max-K Color combination !
+Time : 1
+============================
+SA: 340.0
+Failed to find Max-K Color combination !
+Time : 3
+============================
+GA: 350.0
+Found Max-K Color Combination !
+Time : 123
+============================
+MIMIC: 350.0
+Found Max-K Color Combination !
+Time : 561
+============================
+============================
+============================
+Iteration 2000:
+RHC: 340.0
+Failed to find Max-K Color combination !
+Time : 3
+============================
+SA: 340.0
+Failed to find Max-K Color combination !
+Time : 5
+============================
+GA: 350.0
+Found Max-K Color Combination !
+Time : 235
+============================
+MIMIC: 350.0
+Found Max-K Color Combination !
+Time : 1069
+============================
+============================
+============================
+Iteration 5000:
+RHC: 340.0
+Failed to find Max-K Color combination !
+Time : 8
+============================
+SA: 340.0
+Failed to find Max-K Color combination !
+Time : 13
+============================
+GA: 350.0
+Found Max-K Color Combination !
+Time : 596
+============================
+MIMIC: 350.0
+Found Max-K Color Combination !
+Time : 2507
+============================
+============================
+============================
+Iteration 10000:
+RHC: 340.0
+Failed to find Max-K Color combination !
+Time : 16
+============================
+SA: 340.0
+Failed to find Max-K Color combination !
+Time : 28
+============================
+GA: 350.0
+Found Max-K Color Combination !
+Time : 1157
+============================
+MIMIC: 350.0
+Found Max-K Color Combination !
+Time : 4902
+============================
+============================
+============================
+Iteration 20000:
+RHC: 340.0
+Failed to find Max-K Color combination !
+Time : 46
+============================
+SA: 340.0
+Failed to find Max-K Color combination !
+Time : 58
+============================
+GA: 350.0
+Found Max-K Color Combination !
+Time : 2291
+============================
+MIMIC: 350.0
+Found Max-K Color Combination !
+Time : 9804
+============================
+============================
+============================
+Iteration 50000:
+RHC: 340.0
+Failed to find Max-K Color combination !
+Time : 91
+============================
+SA: 340.0
+Failed to find Max-K Color combination !
+Time : 128
+============================
+GA: 350.0
+Found Max-K Color Combination !
+Time : 5768
+============================
+MIMIC: 350.0
+Found Max-K Color Combination !
+Time : 22906
+============================
+============================
+============================
+Iteration 100000:
+RHC: 340.0
+Failed to find Max-K Color combination !
+Time : 158
+============================
+SA: 340.0
+Failed to find Max-K Color combination !
+Time : 232
+============================
+GA: 350.0
+Found Max-K Color Combination !
+Time : 10945
+============================
+MIMIC: 350.0
+Found Max-K Color Combination !
+Time : 47922
+============================
+============================
+============================
+Iteration 250000:
+RHC: 340.0
+Failed to find Max-K Color combination !
+Time : 411
+============================
+SA: 340.0
+Failed to find Max-K Color combination !
+Time : 631
+============================
+GA: 350.0
+Found Max-K Color Combination !
+Time : 28984
+============================
+MIMIC: 350.0
+Found Max-K Color Combination !
+Time : 115239
+============================
