@@ -1,0 +1,35 @@
+Error results for Standard Genetic Algorithm, 5
+---------------------------
+0, 7273.509173142906
+1, 2982.3277683178403
+2, 3107.765480963477
+3, 3378.501872880835
+4, 3059.802346551475
+
+Results for Standard Genetic Algorithm:
+Correctly classified 24724.0 instances.
+Incorrectly classified 7837.0 instances.
+Percent correctly classified: 75.93132889039035%
+Training time: 335.98980045 seconds
+Testing time: 0.179144312 seconds
+
+
+Error results for Standard Genetic Algorithm, 10
+---------------------------
+0, 3715.6011612830453
+1, 3056.2725559966107
+2, 5618.661271921495
+3, 3033.7330267363245
+4, 2972.2101329627767
+5, 6142.8467818096215
+6, 3964.6652596665726
+7, 2984.6985647823353
+8, 2983.920265884459
+9, 3718.059090110108
+
+Results for Standard Genetic Algorithm:
+Correctly classified 24894.0 instances.
+Incorrectly classified 7667.0 instances.
+Percent correctly classified: 76.45342587758361%
+Training time: 668.724582234 seconds
+Testing time: 0.141373783 seconds
